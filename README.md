@@ -26,7 +26,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 *Books on threat modeling.*
 
-- 
+- [Desiging secure software (pages 26 to 41), Loren Kohnfelder](https://nostarch.com/designing-secure-software)
 
 - [Threat Modeling: Designing for Security](https://www.amazon.com/Threat-Modeling-Designing-Adam-Shostack/dp/1118809998)
 
